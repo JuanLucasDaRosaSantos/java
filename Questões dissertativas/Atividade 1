@@ -1,0 +1,4 @@
+        O componente que executa programas java é o JVM (Java Virtual Machine), que executa o programa dentro de uma máquina virtual utilizando bytecode
+        O componente que fornece o ambiente de desenvolvimento é o JRE (Java Runtime Environment)
+        O componente que fornece ferramentas é o JDK (Java Development Kit)
+        
